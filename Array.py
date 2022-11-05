@@ -90,7 +90,7 @@ while True:
 
         elif choice == 10:
             biggest = max(array_)
-            print("This is the biggest value of element:", biggest)
+            print("This is the biggest value of element: ", biggest)
 
 
         elif choice == 11:
